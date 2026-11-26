@@ -1,0 +1,22 @@
+[
+    {
+        "nomor": "101",
+        "tipe": "Standar",
+        "tarif": 250000
+    },
+    {
+        "nomor": "102",
+        "tipe": "Standar",
+        "tarif": 250000
+    },
+    {
+        "nomor": "201",
+        "tipe": "Deluxe",
+        "tarif": 400000
+    },
+    {
+        "nomor": "202",
+        "tipe": "Deluxe",
+        "tarif": 400000
+    }
+]

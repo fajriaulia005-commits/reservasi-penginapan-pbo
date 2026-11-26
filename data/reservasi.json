@@ -1,0 +1,22 @@
+[
+    {
+        "id_reservasi": "RSV-001",
+        "id_tamu": "TMU-001",
+        "nomor_kamar": "101",
+        "tgl_checkin": "2026-11-27",
+        "tgl_checkout": "2026-11-30",
+        "total_biaya": 750000,
+        "status": "SELESAI",
+        "metode_pembayaran": "TUNAI"
+    },
+    {
+        "id_reservasi": "RSV-002",
+        "id_tamu": "TMU-002",
+        "nomor_kamar": "202",
+        "tgl_checkin": "2026-11-27",
+        "tgl_checkout": "2026-11-30",
+        "total_biaya": 1350000,
+        "status": "SELESAI",
+        "metode_pembayaran": "TUNAI"
+    }
+]
